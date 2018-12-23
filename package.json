@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "name": "cordova-clipboard",
+  "cordova_name": "Cordova Clipboard",
+  "description": "Cordova clipboard for iOS and android",
+  "license": "MIT",
+  "repo": "",
+  "issue": "",
+  "author": {
+    "name": "Ibrahim Kamel",
+    "email": "Ibrahim Mohamed Kamel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibamohamed/cordova-clipboard"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "clipboard",
+    "copy",
+    "ios",
+    "android",
+    "cordova"
+  ],
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "engines": [],
+  "englishdoc": ""
+}
